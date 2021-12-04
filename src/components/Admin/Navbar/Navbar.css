@@ -1,0 +1,30 @@
+.top {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(223, 250, 223);
+  height: 6rem;
+  top: 0;
+  position: sticky !important;
+}
+.image-text {
+  color: green;
+}
+.full-name {
+  flex: 2.5;
+  margin-left: 2rem;
+}
+.others {
+  flex: 1;
+  display: flex;
+  justify-content: space-around;
+}
+.other-image img {
+  height: 3.5rem;
+  width: 3.5rem;
+  border-radius: 50%;
+  margin: 2%;
+}
+.other-message,
+.other-notification {
+  font-size: 2rem;
+}

@@ -1,0 +1,10 @@
+.content {
+  display: flex;
+  background-color: rgb(241, 243, 240);
+}
+.left-part {
+  flex: 1;
+}
+.right-part {
+  flex: 5;
+}

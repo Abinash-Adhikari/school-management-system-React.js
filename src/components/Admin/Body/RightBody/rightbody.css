@@ -1,0 +1,35 @@
+.main-content {
+  padding: 10px;
+  height: 85vh;
+  overflow-y: scroll;
+}
+.dist-cont {
+  display: flex;
+  justify-content: space-around;
+  margin: 0.5rem;
+}
+.main-header {
+  margin: 1rem 1rem 0 1rem;
+}
+
+.cont {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+.cont-logo {
+  font-size: 3.5rem;
+}
+.datas {
+  display: flex;
+  justify-content: space-around;
+}
+.cont-text {
+  text-align: center;
+}
+.calendar {
+  flex: 1;
+}
+.analysis {
+  flex: 3;
+}
